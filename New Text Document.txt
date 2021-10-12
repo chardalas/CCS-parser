@@ -1,1 +1,2 @@
-this is the parser project that needs to finish at some point
+This is the parser project that needs to start at some point
+CCS for concurrency
